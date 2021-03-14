@@ -2,7 +2,7 @@
 
 > A dark theme for [Ulauncher](https://ulauncher.io)
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/45463757/111071541-970bc000-8511-11eb-9b57-269d89fa013c.png)
 
 ## Install
 
